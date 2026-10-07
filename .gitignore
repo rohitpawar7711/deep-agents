@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+.ipynb_checkpoints/
+
+# Local scratch
+notes/
+test.py
+.DS_Store

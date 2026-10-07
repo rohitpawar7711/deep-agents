@@ -1,0 +1,16 @@
+deepagents
+langchain
+langchain-openai
+langchain-groq
+ipykernel
+tavily-python
+python-dotenv
+langchain-openrouter
+#langchain-quikjs
+streamlit
+langgraph
+youtube-transcript-api
+playwright
+langchain-text-splitters
+langchain_community
+faiss-cpu
